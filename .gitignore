@@ -1,4 +1,4 @@
 .idea/
-indexlabs-automation.iml
+**/*.iml
 **/target
 target
