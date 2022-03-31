@@ -17,7 +17,7 @@
 
   <properties>
     <junit.version>5.6.2</junit.version>
-    <spring.verison>5.2.7.RELEASE</spring.verison>
+    <spring.verison>5.3.18</spring.verison>
     <lombok.version>1.18.12</lombok.version>
     <docker.fabric.version>0.33.0</docker.fabric.version>
     <selenium.java.version>3.141.59</selenium.java.version>
